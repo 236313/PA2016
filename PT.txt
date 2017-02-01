@@ -50,4 +50,4 @@ Projekt B: Temat [link do repozytorium]
 Piotr Wyciechowski 204004
 Projekt A: dioda RGB WinAPI [link do repozytorium] 
   + po poprawkach OK
-Projekt B: Temat [link do repozytorium]
+Projekt B: Odczyt temparatury przez bluetooth [link do repozytorium]
