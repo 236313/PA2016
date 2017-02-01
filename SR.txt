@@ -18,7 +18,7 @@ Projekt A: Sterowanie diodą RGB [link do repozytorium]
 Projekt B: Temat [link do repozytorium]
 Kuźmiński Paweł 
 Projekt A: Symulacja działania diody RGB https://github.com/Pawelox/Avenger2016.git [OK, arduino + HSV + UserCtrl]
-Projekt B: Temat [link do repozytorium]
+Projekt B: Sterowanie kolorami diody przez TCP [https://github.com/Pawelox/Projekt2TCP]
 
 Fedoryka Grzegorz
 Projekt A: Gra w unikanie [https://github.com/GrzegorzFedoryka/simple_game_winapi] [OK, ale po co 6 timerów!!!]
