@@ -51,7 +51,8 @@ Projekt B: Temat [link do repozytorium]
 Piotr Wyciechowski 204004
 Projekt A: dioda RGB WinAPI https://github.com/piotrwyciechowski/RGB_PA 
   + po poprawkach OK
-Projekt B: Odczyt temparatury przez bluetooth [link do repozytorium]
+Projekt B: Odczyt temparatury przez bluetooth 
+https://github.com/piotrwyciechowski/bluetooth_Arduino
 http://pastebin.com/NKg43DLN
 Mateusz Klucznik 221100
 Projekt A: Kółko i krzyżyk [https://github.com/pa221110/Projekt-1]
