@@ -45,8 +45,8 @@ Projekt B: Rozpoznawanie twarzy z bazą danych https://github.com/cyrylpawel/pro
  --> Image.FromFile(@"C:\zdjecia\MyPic.jpg") to nie jest dobry pomysł...
 
 Michał Pływacz 221254
-Projekt A: Kontroler diody RGB pod arduino korzystający z bibliotek QT https://github.com/mplywacz/Serial_RGB_LED [OK!; 20161125]
-Projekt B: Temat [link do repozytorium]
+Projekt A: Kontroler diody RGB pod arduino korzystający z bibliotek QT [https://github.com/mplywacz/Serial_RGB_LED] [OK!; 20161125]
+Projekt B: Gra Inkrementacyjna, Unity, C# [https://github.com/mplywacz/Gra__Inkrementacyjna]
 
 Piotr Wyciechowski 204004
 Projekt A: dioda RGB WinAPI https://github.com/piotrwyciechowski/RGB_PA 
