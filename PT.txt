@@ -25,7 +25,7 @@ Projekt A: Snake [https://github.com/ElKartofel/Majda]
  * Github to nie dropbox! proszę założyć repozytorium z kodami źródłowymi
  * Zła logika aplikacji sterowanej zdarzeniami - do poprawienia sposób wyświetlania (dodanie obsługi WM_PAINT, ew. back-buffer)
 Projekt B: Przeglądarka www [https://github.com/ElKartofel/projekt/tree/master/przegl%C4%85darka]
-http://156.17.13.58:6666/cgi-bin/test.cgi
+http://156.17.13.58:9938/cgi-bin/test.cgi
 
 Krzysztof Mospan 218919
 Projekt A: Symulator silnika krokowego (aplikacja graficzna) [https://github.com/KrzysztofMospan/PA-1-projekt]
